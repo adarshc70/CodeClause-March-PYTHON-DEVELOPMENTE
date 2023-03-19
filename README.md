@@ -3,10 +3,10 @@ This repository is to share my workings as a Python Developer Intern at CodeClau
 
 # Task1_URL shortener
 ## IDE used: Pycharm
-Description: In this code we have installed and imported an library function called pyshortners. This code defines a function called shorten_url() that takes a URL as input, creates a pyshorteners object, and uses the TinyURL provider to shorten the URL. The function returns the shortened URL.The code then prompts the user to enter a URL, calls the shorten_url() function to shorten the URL, and prints the shortened URL to the console.
+Description: In this code we have installed and imported an library function called pyshortners. This code defines a function called shorten_url() that takes a URL as input, creates a pyshorteners object, and uses the TinyURL provider to shorten the URL. The function returns the shortened URL.The code then prompts the user to enter a URL, calls the shorten_url() function to shorten the URL, and prints the shortened URL to the console.Our main goal is to make large url as a short.
 
 URL: https://github.com/adarshc70/CodeClause-March-PYTHON-DEVELOPMENTE/blob/main/Task1-URL%20Shortener.py
-Our main goal is to make large url as a short.
+
 # Task2_Alarm Clock with GUI
 Description: In this code we creates a simple alarm clock with a graphical user interface using the tkinter library in Python.The datetime, time, and winsound libraries are imported for the purpose of getting the current time, setting the alarm, and playing a sound respectively.
 
