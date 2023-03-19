@@ -22,3 +22,19 @@ The output of the program will be a GUI window with six input fields and a butto
 
 URL: https://github.com/adarshc70/CodeClause-March-PYTHON-DEVELOPMENTE/blob/main/Task2-Alarm%20Clock%20with%20GUI.py
 
+# Task3_Voice Assistant using Python:
+
+Description:  Python program that defines a voice assistant that can perform various tasks based on user input. The program uses several libraries such as speech_recognition, pyttsx3, datetime, wikipedia, and webbrowser to provide the functionality of voice recognition, text-to-speech conversion, fetching the current date and time, searching Wikipedia for information, opening websites, and playing songs on YouTube.
+
+The main function of the program is defined as "main()", which initiates the voice assistant and greets the user with a welcome message. It then listens to the user's speech input and processes it using the "recognize_speech()" function, which converts the speech to text using Google's speech recognition API. Based on the user's input, the program performs various actions such as fetching the current time, searching Wikipedia for information, opening websites, playing songs, and so on.
+
+The program uses the "speak()" function to convert text into speech and uses the pyttsx3 library for this conversion. It also defines a try-except block to handle errors that might occur during speech recognition.
+
+Overall, the code defines a simple but useful voice assistant that can perform various tasks based on user input, making it a great starting point for building more complex voice assistants.
+
+
+
+
+
+
+
